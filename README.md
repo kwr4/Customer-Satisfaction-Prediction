@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @kree84
+- 👀 I’m interested in games, therapy, music.
+- 🌱 I’m currently learning behavioral analytics.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+kree84/kree84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
