@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwr4
 - 👀 I’m interested in games, therapy, music.
-- 🌱 I’m currently learning industrial/organization psych.
+- 🌱 I’m currently learning industrial/organizational psych.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
